@@ -1,4 +1,0 @@
-repository "GameJam Vtuber/GameJam Vtuber@18967721390906@cloud"
-  path "/"
-    br "/main"
-    co "/main"
